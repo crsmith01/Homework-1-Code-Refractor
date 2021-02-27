@@ -32,7 +32,7 @@ body {
     font-size: 20px;
 }
 
-
+/* created nav a section to help control navigation bar*/
 nav a {
     display: inline-block;
     padding: 20px;
