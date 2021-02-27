@@ -86,34 +86,26 @@ p {
     background-color: #2589bd;
 }
 
-
-
+/* consolidated benefit class for the three sections to make it dry*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
-
-
+/* consolidated benefit h3 class for the three sections to make it dry*/
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
-
-
+/* consolidated benefit img class for the three sections to make it dry*/
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
-
-
-
+/* consolidated body-background class for the three sections to make it dry*/
 .body-background {
     margin-bottom: 20px;
     padding: 50px;
@@ -153,7 +145,7 @@ p {
 
 
 
-
+/* consolidated img class for the three sections to make it dry*/
 .img {
     max-height: 200px;
 }
@@ -172,7 +164,7 @@ p {
 
 
 
-
+/* consolidated h2 class for the three sections to make it dry*/
 .h2 {
     margin-bottom: 20px;
     font-size: 36px;
