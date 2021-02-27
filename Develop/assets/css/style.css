@@ -32,25 +32,15 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-/* PROBABLY NEED TO COORDINATE THIS WITH NAV  */
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
-
 nav {
     display: flex;
   }
   
 nav a {
-    display: ;
-    padding: 14px 20px;
+    display: inline-block;
+    padding: 20px;
     text-decoration: none;
-    text-align: center;
+    text-align: right;
     align-items: flex-end;
 }
 
