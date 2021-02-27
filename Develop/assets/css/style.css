@@ -32,10 +32,7 @@ body {
     font-size: 20px;
 }
 
-nav {
-    display: flex;
-  }
-  
+
 nav a {
     display: inline-block;
     padding: 20px;
