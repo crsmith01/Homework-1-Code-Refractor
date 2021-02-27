@@ -11,7 +11,7 @@ In this assignment, I addressed accessibility via the code, committing messages 
 
 
 <!-- Screenshot -->
-
+Screenshots of the finished page can be seen here: (./assets/images/screenshot-part-1.png) and (./assets/images/screenshot-part-2.png)
 
 <!-- Code -->
-The deployed application can be found via this link: _____________.
+The deployed application can be found via this link: https://crsmith01.github.io/Homework-1-Code-Refractor/.
