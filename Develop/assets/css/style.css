@@ -149,46 +149,15 @@ p {
 
 
 /* consolidated img class for the three sections to make it dry*/
-.img {
+img {
     max-height: 200px;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-
 
 /* consolidated h2 class for the three sections to make it dry*/
-.h2 {
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
 
 
 .footer {
