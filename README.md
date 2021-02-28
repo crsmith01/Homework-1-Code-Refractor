@@ -10,7 +10,7 @@ In this assignment, I addressed accessibility via the code, committing messages 
 6. The final step was deploying to GitHub. 
 
 # Screenshots
-Screenshots of the finished page can be seen here: (./assets/images/screenshot-part-1.png) and (./assets/images/screenshot-part-2.png)
+Screenshots of the finished page can be seen here: (Develop/assets/images/screenshot-part-1.png) and (Develp/assets/images/screenshot-part-2.png)
 
 # Code
 The deployed application can be found via this link: https://crsmith01.github.io/Homework-1-Code-Refractor/.
